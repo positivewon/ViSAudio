@@ -46,12 +46,12 @@ If you find our work helpful for your research, please consider giving a star тн
 
 ```bibtex
 @misc{zhang2025visaudioendtoendvideodrivenbinaural,
-        title={ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation}, 
-        author={Mengchen Zhang and Qi Chen and Tong Wu and Zihan Liu and Dahua Lin},
-        year={2025},
-        eprint={2512.03036},
-        archivePrefix={arXiv},
-        primaryClass={cs.CV},
-        url={https://arxiv.org/abs/2512.03036}, 
-  }
+    title={ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation}, 
+    author={Mengchen Zhang and Qi Chen and Tong Wu and Zihan Liu and Dahua Lin},
+    year={2025},
+    eprint={2512.03036},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV},
+    url={https://arxiv.org/abs/2512.03036}, 
+}
 ```
