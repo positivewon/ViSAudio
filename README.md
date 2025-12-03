@@ -45,7 +45,7 @@ This work is built on many amazing research works and open-source projects, than
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
 
 ```bibtex
-      @misc{zhang2025visaudioendtoendvideodrivenbinaural,
+@misc{zhang2025visaudioendtoendvideodrivenbinaural,
         title={ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation}, 
         author={Mengchen Zhang and Qi Chen and Tong Wu and Zihan Liu and Dahua Lin},
         year={2025},
